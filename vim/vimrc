@@ -7,7 +7,7 @@ au VimEnter * PlugInstall --sync | source $MYVIMRC
 " Plugins
 call plug#begin()
 Plug 'dense-analysis/ale'
-Plug 'C:/Users/ferna/vim/themes/pnevma.vim'
+Plug 'pnevma.vim'
 Plug 'LunarWatcher/auto-pairs'
 call plug#end()
 
